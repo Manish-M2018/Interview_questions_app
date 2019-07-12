@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:gravity="center"
+    android:id="@+id/front_page_title_bar_page"
+    android:background="@drawable/pattern2">
+
+    <TextView
+        android:id="@+id/tvfrontpage_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/frontpage_title"
+        android:textSize="40sp"
+        android:textColor="#000000"/>
+
+</android.support.v7.widget.LinearLayoutCompat>

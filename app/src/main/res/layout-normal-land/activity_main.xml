@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@mipmap/ic_launcher_round">
+
+
+    <Button
+        android:id="@+id/bsq"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:textSize="20sp"
+        android:background="@drawable/button_states"
+        android:text="@string/sq"
+        android:layout_marginTop="75dp"
+        android:layout_marginLeft="50dp" />
+
+    <Button
+        android:id="@+id/btq"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:textSize="20sp"
+        android:layout_marginTop="75dp"
+        android:layout_marginLeft="400dp"
+        android:text="@string/tq"
+        android:background="@drawable/button_states"/>
+
+    <Button
+        android:id="@+id/bseeotherapps"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:textSize="20sp"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="50dp"
+        android:text="@string/seeothers"
+        android:background="@drawable/button_states"/>
+
+    <Button
+        android:id="@+id/rate"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:textSize="20sp"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="400dp"
+        android:text="@string/rate"
+        android:background="@drawable/button_states"/>
+
+
+</RelativeLayout>

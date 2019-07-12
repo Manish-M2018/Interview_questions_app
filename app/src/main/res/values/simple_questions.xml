@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_ques">
+        <item>What is Android?</item>
+        <item>What is the full form of API?</item>
+        <item>Who owns Android?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_ans">
+        <item>It is an open source operating system for Smart phones and tablets</item>
+        <item>The full form of API is "Application Programmer Interface"</item>
+        <item>Google(the tech giant) owns android</item>
+    </string-array>
+</resources>

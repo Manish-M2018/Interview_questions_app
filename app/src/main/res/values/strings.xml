@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My_Pro_Project</string>
+    <string name="sq">Simple Questions</string>
+    <string name="tq">Tough question</string>
+    <string name="seeothers">See other apps</string>
+    <string name="rate">Rate apps</string>
+
+    <!--Questions.xml strings-->
+    <string name="tv_xx">XX/</string>
+    <string name="tv_yy">YY</string>
+    <string name="tv_question">Question</string>
+    <string name="tv_answer">Press the button for answer</string>
+
+
+    <!--questions_title_bar strings-->
+    <string name="questions_title">Questions</string>
+
+    <!--frontpage_title_bar strings-->
+    <string name="frontpage_title">Android Interview</string>
+
+
+
+</resources>
